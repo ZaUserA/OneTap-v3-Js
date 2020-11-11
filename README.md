@@ -1,6 +1,6 @@
 # OneTap-v3-Js
 
-OneTap v3 API. VACBAN.wtf > ALL
+OneTap v3 API. vaultcore > ALL
 
 <a name="-1"></a>
 
